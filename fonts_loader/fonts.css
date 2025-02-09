@@ -1,0 +1,35 @@
+/* @font-face { */
+/*     font-family: "Arial Regular"; */
+/*     src: url("/fonts/LiberationSans-Regular-webfont.woff") format("woff"); */
+/*     font-weight: normal; */
+/*     font-style: normal; */
+/*     font-display: swap; */
+/* } */
+
+/* @font-face { */
+/*     font-family: "Candara"; */
+/*     src: url("/fonts/LiberationSans-Regular-webfont.woff") format("woff"); */
+/*     font-weight: normal; */
+/*     font-style: normal; */
+/*     font-display: swap; */
+/* } */
+
+/* @font-face { */
+/*     font-family: "Candara"; */
+/*     src: url("/fonts/LiberationSans-Regular-webfont.woff") format("woff"); */
+/*     font-weight: bold; */
+/*     font-style: normal; */
+/*     font-display: swap; */
+/* } */
+@font-face {
+    font-family: "Candara-Bold";
+    src: url("https://db.onlinewebfonts.com/t/6e0fdb5632f73de5a089fac456f2b958.eot");
+    src: url("https://db.onlinewebfonts.com/t/6e0fdb5632f73de5a089fac456f2b958.eot?#iefix")format("embedded-opentype"),
+        url("https://db.onlinewebfonts.com/t/6e0fdb5632f73de5a089fac456f2b958.woff")format("woff"),
+        url("https://db.onlinewebfonts.com/t/6e0fdb5632f73de5a089fac456f2b958.woff2")format("woff2"),
+        url("https://db.onlinewebfonts.com/t/6e0fdb5632f73de5a089fac456f2b958.ttf")format("truetype"),
+        url("https://db.onlinewebfonts.com/t/6e0fdb5632f73de5a089fac456f2b958.svg#Candara W08 Bold")format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
