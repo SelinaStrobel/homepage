@@ -1,35 +1,23 @@
-/* @font-face { */
-/*     font-family: "Arial Regular"; */
-/*     src: url("/fonts/LiberationSans-Regular-webfont.woff") format("woff"); */
-/*     font-weight: normal; */
-/*     font-style: normal; */
-/*     font-display: swap; */
-/* } */
-
-/* @font-face { */
-/*     font-family: "Candara"; */
-/*     src: url("/fonts/LiberationSans-Regular-webfont.woff") format("woff"); */
-/*     font-weight: normal; */
-/*     font-style: normal; */
-/*     font-display: swap; */
-/* } */
-
-/* @font-face { */
-/*     font-family: "Candara"; */
-/*     src: url("/fonts/LiberationSans-Regular-webfont.woff") format("woff"); */
-/*     font-weight: bold; */
-/*     font-style: normal; */
-/*     font-display: swap; */
-/* } */
+/* downloaded from https://www.onlinewebfonts.com/package/Candara */
 @font-face {
-    font-family: "Candara-Bold";
-    src: url("https://db.onlinewebfonts.com/t/6e0fdb5632f73de5a089fac456f2b958.eot");
-    src: url("https://db.onlinewebfonts.com/t/6e0fdb5632f73de5a089fac456f2b958.eot?#iefix")format("embedded-opentype"),
-        url("https://db.onlinewebfonts.com/t/6e0fdb5632f73de5a089fac456f2b958.woff")format("woff"),
-        url("https://db.onlinewebfonts.com/t/6e0fdb5632f73de5a089fac456f2b958.woff2")format("woff2"),
-        url("https://db.onlinewebfonts.com/t/6e0fdb5632f73de5a089fac456f2b958.ttf")format("truetype"),
-        url("https://db.onlinewebfonts.com/t/6e0fdb5632f73de5a089fac456f2b958.svg#Candara W08 Bold")format("svg");
+    font-family: 'Candara';
+    src: url('/vendor/candara/Candara-Regular.woff')format('woff');
     font-weight: normal;
     font-style: normal;
-    font-display: swap;
+}
+
+/* downloaded from https://www.onlinewebfonts.com/package/Candara */
+@font-face {
+    font-family: 'Candara';
+    src: url('/vendor/candara/Candara-Bold.woff')format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+/* downloaded from https://en.bestfonts.pro/font/download/5c60a34630732d049e0253a8 */
+@font-face {
+    font-family: 'Arial';
+    src: url('/vendor/fonts/Arial-Regular.woff')format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
