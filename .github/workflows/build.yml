@@ -5,6 +5,8 @@ on:
     branches:
       - main
   workflow_dispatch:
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -17,7 +19,7 @@ jobs:
         run: make
 
       - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@4
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: pages
           folder: .
