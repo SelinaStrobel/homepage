@@ -3,7 +3,7 @@
 /* downloaded from https://www.onlinewebfonts.com/package/Candara */
 @font-face {
     font-family: 'Candara';
-    src: url('/vendor/candara/Candara-Regular.woff')format('woff');
+    src: url('/vendor/fonts/Candara-Regular.woff')format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -11,7 +11,7 @@
 /* downloaded from https://www.onlinewebfonts.com/package/Candara */
 @font-face {
     font-family: 'Candara';
-    src: url('/vendor/candara/Candara-Bold.woff')format('woff');
+    src: url('/vendor/fonts/Candara-Bold.woff')format('woff');
     font-weight: bold;
     font-style: normal;
 }
