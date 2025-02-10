@@ -16,7 +16,9 @@ jobs:
         uses: actions/checkout@v1
 
       - name: Build
-        run: make
+        run: |
+          make
+          rm .gitignore
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
