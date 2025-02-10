@@ -10,9 +10,15 @@ FONTS_CSS_FILE="$DIR/fonts.css"
 echo "converting $1 to $2"
 
 # First we need to prepare what needs to be loaded into the svg.
-# This is done by replacing OHtFGivqhAswi with the actual font css.
-sed "/OHtFGivqhAswi/e cat $FONTS_CSS_FILE" "$FONTS_CSS_TEMPLATE" | sed 's/OHtFGivqhAswi//' > "$FINAL_TEXT_TO_INCLUDE_IN_SVG"
+# Append the actual font css before OHtFGivqhAswi.
+# Then we need to delete OHtFGivqhAswi.
+sed "/OHtFGivqhAswi/e cat $FONTS_CSS_FILE" "$FONTS_CSS_TEMPLATE" | \
+    sed 's/OHtFGivqhAswi//' \
+    > "$FINAL_TEXT_TO_INCLUDE_IN_SVG"
 
 # Now we can load this template into the actual svg.
 # cI0WWZKD2UKEj is the string to replace later on
-sed -E 's/(<svg [^>]+>)/\1\ncI0WWZKD2UKEj\n/' "$1" | sed "/cI0WWZKD2UKEj/e cat $FINAL_TEXT_TO_INCLUDE_IN_SVG" | sed 's/cI0WWZKD2UKEj//' > "$2"
+sed -E 's/(<svg [^>]+>)/\1\ncI0WWZKD2UKEj\n/' "$1" | \
+    sed "/cI0WWZKD2UKEj/e cat $FINAL_TEXT_TO_INCLUDE_IN_SVG" | \
+    sed 's/cI0WWZKD2UKEj//' \
+    > "$2"
