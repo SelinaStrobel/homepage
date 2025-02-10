@@ -2,9 +2,8 @@
     max-width: 1200px;
     margin: 0 auto;
     /* some breathing space */
-    /* padding-top: 15px; */
+    padding-top: 15px;
     padding-bottom: 15px;
-    margin-top: -50px;
 }
 
 .page {
