@@ -1,7 +1,7 @@
 # Selina's Homepage
 
 ## Update Instructions
-- open the git bash terminal in the repo directory
+- open the git bash terminal in the repo directory (der lokale Ordner)
 - run `git pull` to download any changes made by other contributors
 - if you created new pages, update `./index.html`
 - if you use new fonts, update `./fonts_loader/fonts.css`
