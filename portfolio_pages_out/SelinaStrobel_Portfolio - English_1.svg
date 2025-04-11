@@ -45,12 +45,12 @@
         </g>
         <g id="Schrift" transform="matrix(1,0,0,1,5.11591e-13,-2478.71)">
             <g transform="matrix(1,0,0,1,-37.6093,229.238)">
-                <text x="236.22px" y="2732.46px" style="font-family:'Candara-Bold', 'Candara';font-weight:700;font-size:125px;fill:rgb(35,31,32);">PORTFOLIO</text>
+                <text x="236.22px" y="2737.71px" style="font-family:'CenturyGothic', 'Century Gothic';font-size:125px;fill:rgb(35,31,32);">PORTFOLIO</text>
             </g>
             <g transform="matrix(1,0,0,1,-37.6093,312.99)">
-                <g transform="matrix(200,0,0,200,1691.69,2501.07)">
+                <g transform="matrix(200,0,0,200,1726.36,2509.47)">
                 </g>
-                <text x="236.22px" y="2501.07px" style="font-family:'Candara-Bold', 'Candara';font-weight:700;font-size:200px;">SELINA STROBEL</text>
+                <text x="236.22px" y="2509.47px" style="font-family:'CenturyGothic', 'Century Gothic';font-size:200px;">SELINA STROBEL</text>
             </g>
         </g>
     </g>

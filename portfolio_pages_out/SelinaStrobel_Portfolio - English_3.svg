@@ -33,14 +33,14 @@
 
     <g transform="matrix(0.64,0,0,0.64,0,0)">
         <g transform="matrix(1,0,0,1,-11.4746,20.4431)">
-            <g transform="matrix(125,0,0,125,797.558,212.598)">
+            <g transform="matrix(125,0,0,125,855.48,212.598)">
             </g>
-            <text x="188.976px" y="212.598px" style="font-family:'Candara';font-size:125px;fill:rgb(35,31,32);">HKA-Forum</text>
+            <text x="188.976px" y="212.598px" style="font-family:'CenturyGothic', 'Century Gothic';font-size:125px;fill:rgb(35,31,32);">HKA-Forum</text>
         </g>
         <g transform="matrix(1,0,0,1,-5.7373,-7.10543e-14)">
-            <g transform="matrix(62.5,0,0,62.5,689.129,295.276)">
+            <g transform="matrix(62.5,0,0,62.5,756.054,295.276)">
             </g>
-            <text x="188.976px" y="295.276px" style="font-family:'Candara';font-size:62.5px;fill:rgb(35,31,32);">BA3 Design Project</text>
+            <text x="188.976px" y="295.276px" style="font-family:'CenturyGothic', 'Century Gothic';font-size:62.5px;fill:rgb(35,31,32);">BA3 Design Project</text>
         </g>
         <g transform="matrix(1.15888,0,0,1.25588,-3779.09,425.719)">
             <rect x="3424.05" y="413.386" width="1182.25" height="677.129" style="fill:none;"/>

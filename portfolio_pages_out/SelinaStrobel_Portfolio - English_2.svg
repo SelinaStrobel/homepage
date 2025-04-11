@@ -33,14 +33,14 @@
 
     <g transform="matrix(0.64,0,0,0.64,0,0)">
         <g transform="matrix(1,0,0,1,-11.4746,20.4431)">
-            <g transform="matrix(125,0,0,125,797.558,212.598)">
+            <g transform="matrix(125,0,0,125,855.48,212.598)">
             </g>
-            <text x="188.976px" y="212.598px" style="font-family:'Candara';font-size:125px;fill:rgb(35,31,32);">HKA-Forum</text>
+            <text x="188.976px" y="212.598px" style="font-family:'CenturyGothic', 'Century Gothic';font-size:125px;fill:rgb(35,31,32);">HKA-Forum</text>
         </g>
         <g transform="matrix(1,0,0,1,-5.7373,-7.10543e-14)">
-            <g transform="matrix(62.5,0,0,62.5,689.129,295.276)">
+            <g transform="matrix(62.5,0,0,62.5,756.054,295.276)">
             </g>
-            <text x="188.976px" y="295.276px" style="font-family:'Candara';font-size:62.5px;fill:rgb(35,31,32);">BA3 Design Project</text>
+            <text x="188.976px" y="295.276px" style="font-family:'CenturyGothic', 'Century Gothic';font-size:62.5px;fill:rgb(35,31,32);">BA3 Design Project</text>
         </g>
         <g transform="matrix(1.11892,0,0,1.32565,-2839.11,-170.053)">
             <rect x="3424.05" y="413.386" width="1182.25" height="677.129" style="fill:none;"/>
@@ -1432,23 +1432,21 @@
         <g transform="matrix(1.06294,0,0,1.31148,-6.76986,-164.193)">
             <rect x="184.155" y="413.386" width="713.482" height="720.472" style="fill:white;fill-rule:nonzero;stroke:white;stroke-width:0.84px;"/>
             <g transform="matrix(0.940787,0,0,0.7625,10.9044,98.1791)">
-                <text x="184.155px" y="447.981px" style="font-family:'Candara';font-size:50px;fill:rgb(35,31,32);">Third place designed for the HKA</text>
-                <text x="184.155px" y="502.147px" style="font-family:'Candara';font-size:50px;fill:rgb(35,31,32);">Campus. Among others it contains</text>
-                <text x="184.155px" y="556.314px" style="font-family:'Candara';font-size:50px;fill:rgb(35,31,32);">an event room, the library and the</text>
-                <text x="184.155px" y="610.481px" style="font-family:'Candara';font-size:50px;fill:rgb(35,31,32);">service centre for students.</text>
-                <text x="184.155px" y="714.647px" style="font-family:'Candara';font-size:50px;fill:rgb(35,31,32);">The multifunctional event room is</text>
-                <text x="184.155px" y="768.814px" style="font-family:'Candara';font-size:50px;fill:rgb(35,31,32);">an introverted building covered in</text>
-                <text x="184.155px" y="822.981px" style="font-family:'Candara';font-size:50px;fill:rgb(35,31,32);">red expanded metal. It is seperated</text>
-                <text x="184.155px" y="877.147px" style="font-family:'Candara';font-size:50px;fill:rgb(35,31,32);">from the main building, which</text>
-                <text x="184.155px" y="931.314px" style="font-family:'Candara';font-size:50px;fill:rgb(35,31,32);">seemingly hovers above. The gap</text>
-                <text x="184.155px" y="985.481px" style="font-family:'Candara';font-size:50px;fill:rgb(35,31,32);">between the two volumes is closed</text>
-                <text x="184.155px" y="1039.65px" style="font-family:'Candara';font-size:50px;fill:rgb(35,31,32);">by glazing, which is broadened at</text>
-                <text x="184.155px" y="1093.81px" style="font-family:'Candara';font-size:50px;fill:rgb(35,31,32);">the main entrance.</text>
-                <text x="184.155px" y="1197.98px" style="font-family:'Candara';font-size:50px;fill:rgb(35,31,32);">The diagonal arrangement creates a</text>
-                <text x="184.155px" y="1252.15px" style="font-family:'Candara';font-size:50px;fill:rgb(35,31,32);">common area leading to the open</text>
-                <g transform="matrix(50,0,0,50,308.252,1306.31)">
-                </g>
-                <text x="184.155px" y="1306.31px" style="font-family:'Candara';font-size:50px;fill:rgb(35,31,32);">foyer.</text>
+                <text x="184.155px" y="450.202px" style="font-family:'CenturyGothic', 'Century Gothic';font-size:50px;fill:rgb(35,31,32);">Third place designed for the</text>
+                <text x="184.155px" y="504.369px" style="font-family:'CenturyGothic', 'Century Gothic';font-size:50px;fill:rgb(35,31,32);">HKA Campus. Among others it</text>
+                <text x="184.155px" y="558.536px" style="font-family:'CenturyGothic', 'Century Gothic';font-size:50px;fill:rgb(35,31,32);">contains an event room, the</text>
+                <text x="184.155px" y="612.702px" style="font-family:'CenturyGothic', 'Century Gothic';font-size:50px;fill:rgb(35,31,32);">library and the service centre</text>
+                <text x="184.155px" y="666.869px" style="font-family:'CenturyGothic', 'Century Gothic';font-size:50px;fill:rgb(35,31,32);">for students.</text>
+                <text x="184.155px" y="771.036px" style="font-family:'CenturyGothic', 'Century Gothic';font-size:50px;fill:rgb(35,31,32);">The multifunctional event room</text>
+                <text x="184.155px" y="825.202px" style="font-family:'CenturyGothic', 'Century Gothic';font-size:50px;fill:rgb(35,31,32);">is an introverted building</text>
+                <text x="184.155px" y="879.369px" style="font-family:'CenturyGothic', 'Century Gothic';font-size:50px;fill:rgb(35,31,32);">covered in red expanded</text>
+                <text x="184.155px" y="933.536px" style="font-family:'CenturyGothic', 'Century Gothic';font-size:50px;fill:rgb(35,31,32);">metal. It is seperated from the</text>
+                <text x="184.155px" y="987.702px" style="font-family:'CenturyGothic', 'Century Gothic';font-size:50px;fill:rgb(35,31,32);">main building, which seemingly</text>
+                <text x="184.155px" y="1041.87px" style="font-family:'CenturyGothic', 'Century Gothic';font-size:50px;fill:rgb(35,31,32);">hovers above. The gap</text>
+                <text x="184.155px" y="1096.04px" style="font-family:'CenturyGothic', 'Century Gothic';font-size:50px;fill:rgb(35,31,32);">between the two volumes is</text>
+                <text x="184.155px" y="1150.2px" style="font-family:'CenturyGothic', 'Century Gothic';font-size:50px;fill:rgb(35,31,32);">closed by glazing, which is</text>
+                <text x="184.155px" y="1204.37px" style="font-family:'CenturyGothic', 'Century Gothic';font-size:50px;fill:rgb(35,31,32);">broadened at the main</text>
+                <text x="184.155px" y="1258.54px" style="font-family:'CenturyGothic', 'Century Gothic';font-size:50px;fill:rgb(35,31,32);">entrance.</text>
             </g>
         </g>
         <g transform="matrix(1.73077,0,0,1.27941,-5698.36,4.86336)">
