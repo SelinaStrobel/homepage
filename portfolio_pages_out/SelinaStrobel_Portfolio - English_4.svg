@@ -27,6 +27,14 @@
     font-style: normal;
 }
 
+/* downloaded from https://en.bestfonts.pro/font/century-gothic */
+@font-face {
+    font-family: 'Century Gothic';
+    src: url('/vendor/fonts/CenturyGothic.woff')format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
     ]]></style>
 </defs>
 
